@@ -1,0 +1,7 @@
+# Cloner un repository
+git clone https://github.com/joen-bakouche/git-begins.git
+
+# Les 3 commandes de push
+git add .
+git commit -m "message du commit"
+git push
